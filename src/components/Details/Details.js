@@ -29,7 +29,7 @@ const Details = () => {
               <h6 className='ps-2 mt-1' style={{color: "gray"}}>5 reviews for this class</h6>
               </div>
             
-              <h5 className='mt-1'> Compleadted by 21 learners</h5>
+              <h5 className='mt-1'> Completed by 21 learners</h5>
              
              <div className='d-flex justify-content-between mt-4'>
              <Button style={{backgroundColor:"#5233FF", color:"white"}} className=' px-4 rounded-pill fs-4 '>See Class Schedule <GrFormNext/> </Button>
